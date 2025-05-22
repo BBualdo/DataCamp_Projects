@@ -1,5 +1,8 @@
 ﻿# 🔑 Building Core Sign-Up Functions to Help Validate New Users
 
+### Project Description
+In this project, you will write reusable Python functions to standardize validation checks for new user sign-ups in a mobile app. Your code will reduce invalid and incomplete sign-up attempts crashing the app. Let's get started!
+
 ## 🎯 Objective
 
 Implement a function called `validate_name()`, that takes in one parameter, which will be a datatype of string to check the user has inputted a valid name.
